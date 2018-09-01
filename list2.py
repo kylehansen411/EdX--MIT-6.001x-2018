@@ -38,3 +38,8 @@ while y != 'c':
             print('Game over. Your secret number was:', ans)
             break
     else:
+
+
+        zzzzz
+        zzzzz
+        zzzzz
